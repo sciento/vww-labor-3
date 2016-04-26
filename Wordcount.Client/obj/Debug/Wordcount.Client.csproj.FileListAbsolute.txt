@@ -1,0 +1,8 @@
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\obj\Debug\Wordcount.Client.csprojResolveAssemblyReference.cache
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\bin\Debug\Wordcount.Client.exe.config
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\bin\Debug\Wordcount.Client.exe
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\bin\Debug\Wordcount.Client.pdb
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\bin\Debug\Wordcount.Contracts.dll
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\bin\Debug\Wordcount.Contracts.pdb
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\obj\Debug\Wordcount.Client.exe
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Client\obj\Debug\Wordcount.Client.pdb

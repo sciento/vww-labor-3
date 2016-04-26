@@ -1,0 +1,5 @@
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Contracts\bin\Debug\Wordcount.Contracts.dll
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Contracts\bin\Debug\Wordcount.Contracts.pdb
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Contracts\obj\Debug\Wordcount.Contracts.csprojResolveAssemblyReference.cache
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Contracts\obj\Debug\Wordcount.Contracts.dll
+d:\dokumente\visual studio 2015\Projects\VWW3\Wordcount\Wordcount.Contracts\obj\Debug\Wordcount.Contracts.pdb
